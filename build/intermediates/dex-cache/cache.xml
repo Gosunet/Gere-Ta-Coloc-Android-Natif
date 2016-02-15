@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-5a68a510d86a11fd9479e0a410c74b200eb77903.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\lib\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-60af0548b309609c285eed0c0cea99c3a68e1542.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-f50d17913412ee1b9cfa0691f006c67d3e3e2f33.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\lib\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\gson-2.3.1-66356d387678e6892a54b2d51ddb694e77298008.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\lib\org.restlet.ext.jackson.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="945f302701dfe398cc585e190dba13df0bf001ca">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\org.restlet.ext.jackson-ce4ca99b492c0ef71dd36eb4cdaddd004576c0da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-fb4593060bb439d01befeec4f01bcca0654bc408.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-9d357b51fe97f810eb3a65cbbab949884fd8daa1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.19.0-b1ac0016e39e7c71e0ea7e5358bdb70c92dfa417.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-7e30f795618299260ffb62df84ef14b0f170d9fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\google-http-client-1.19.0-2be425a72224d41f34baa941a17464420d267a13.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.19.0\e3f11020c2c812112803d252d1392872d3f619c8\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.19.0-e7a43fcafc542ba2e48885cb3659cb75271c479c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-3d1a2f0848850ead8a7c82c7cd11230110a5881f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-64fd1f0c4d6ac80c7433c7e3d13a301d585baef0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-9119159e1ce3a3eea63895978950e132c28661a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-528b07b9cd9135a040815642abf55ef8c66a0968.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-7c3bb0972e8b325725aefafa3efa0900f168ca5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\lib\org.restlet.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0849a07fdd9d22aa5e410bf9ab12490cad1f6c8c">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\org.restlet-40d21c170516bba814b2bf06311651a6837bc05c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-45665bac86988a656076172d6dcfeb02d5cd1435.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.19.0\ba2aafb867f6af469f936ae76426cf0a280094bd\google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.19.0-1b0948e976074ce6ae762189a9326f09399d0987.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-3923163c55a5c7c9019d374629c006f44d75887b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.0\6a21277d9bebe267b7ddee028b241eebc756c040\google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\google-api-client-1.19.0-0fe654eb0c5b9584fa70169d2529674ba6847f8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.19.0-b50e534c7f9a2d164f93d72f1e2a4cdaba015bb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\backend\build\libs\backend-android-endpoints.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c53a78159e18feca46f72996fa3b6794293af29">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\backend-android-endpoints-2e981b5e333086aca503ecebda6dc8f86f352ad5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-ea42ad5b9f3a16c4958df973ddf69acced6b30aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-bf2950241a15965841e15937b9299a51ab4747ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-55ece316b4bc0e67a521129e8754c268d7f09d6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-25e03d8ebe553d0dfedbe8ddd3d1c516805976fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-eaeb4ed1c2a99a50d621125123ccab714dc84019.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\lib\org.restlet.ext.httpclient.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ff1153c15a86b083e58c0e8c85f9d0c65daa41a7">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\org.restlet.ext.httpclient-20cface76ef24dd4885fca3466e93b67d4237b88.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-7cae3218c8e31b91c796f9e2e8bc32cece35f592.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-c43f55973122e80a16e1441f1efc47a4dca4518c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\lib\ftp4j-1.7.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="abd6a2ba75b142926052c4538611efda49e0b0e2">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\ftp4j-1.7.2-11636c1c131b2afaf7fb803bbc00f90d504d7a65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-e48fdf3a0d5627c5b433dc1cd22acd562460c3ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-244c6866504bb76f1e932bc7a7641d0d77708815.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-a76cdf1cb2b721beb088b46630f94cec085db99d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\classes-fe66135d3266461d9cf706172cdcea033ecbffa4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-bc6af6cc38649f7628b56b27a8a67dfa6a3c887a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\Documents\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-fe350689d8c64ab8f3b272572e15daa8ab608f66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Gosunet\AndroidStudioProjects\Temp\GereTaColocV3\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-97024807a1d730a8135e79abb49888ba51cc6c4f.jar" />
+    </item>
+
+</items>

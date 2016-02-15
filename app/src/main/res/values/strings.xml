@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GereTaColoc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_regle_de_vie">Regles de Vie</string>
+    <string name="title_activity_agenda">Agenda</string>
+    <string name="title_activity_bloc_note">Bloc-Note</string>
+    <string name="title_activity_loyer">Loyer</string>
+    <string name="title_activity_ajout__tache">Ajouter une tâche</string>
+    <string name="boutonAjout">Ajouter une tâche</string>
+    <string name="urgentAT">Urgence :</string>
+    <string name="vDateAT">Date :</string>
+    <string name="title_activity_modifier_regle">Modifier une règle</string>
+    <string name="title_activity_charge_totale">ChargeTotale</string>
+</resources>
